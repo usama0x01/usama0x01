@@ -21,6 +21,7 @@ About me
 
 {
   "Intro":[
+    "I love to break things!",
     "I am a Pentester",
     "CTF Player",
     "Automation Lover",
